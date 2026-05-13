@@ -54,8 +54,8 @@ All five share the same `BiometricModality` interface, so adding a sixth (gait, 
 ## Installation
 
 ```bash
-git clone https://github.com/AAH20/Aegis-Neuro.git
-cd Aegis-Neuro
+git clone https://github.com/AAH20/Aegis-Neuro-Biometric-Simulator.git
+cd Aegis-Neuro-Biometric-Simulator
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
 aegis-neuro version

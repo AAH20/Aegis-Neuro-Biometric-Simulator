@@ -61,8 +61,8 @@ dev = [
 aegis-neuro = "aegis_neuro.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/AAH20/Aegis-Neuro"
-Issues = "https://github.com/AAH20/Aegis-Neuro/issues"
+Homepage = "https://github.com/AAH20/Aegis-Neuro-Biometric-Simulator"
+Issues = "https://github.com/AAH20/Aegis-Neuro-Biometric-Simulator/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
